@@ -18,7 +18,7 @@ Input
 
 Output
 
-•	On the first line:
+On the first line:
 
 o	If Stamat hasn't drunk all the energy drinks, print the remaining ones separated by a comma and a space ", ": 
 
@@ -29,13 +29,13 @@ o	If Stamat has drunk all the energy drinks, print:
 o	"At least Stamat wasn't exceeding the maximum caffeine."
 
 
-•	On the next line, print:
+On the next line, print:
 
 o	"Stamat is going to sleep with { current caffeine } mg caffeine."
 
 Constraints
 
-•	You will always have at least one element in each sequence at the beginning.
+You will always have at least one element in each sequence at the beginning.
 
 2. Rally Racing
 
