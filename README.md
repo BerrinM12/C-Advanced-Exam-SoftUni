@@ -21,16 +21,12 @@ Output
 On the first line:
 
 o	If Stamat hasn't drunk all the energy drinks, print the remaining ones separated by a comma and a space ", ": 
-
 o	"Drinks left: { remaining drinks separated by ", " }"
-
 o	If Stamat has drunk all the energy drinks, print:
-
 o	"At least Stamat wasn't exceeding the maximum caffeine."
 
 
 On the next line, print:
-
 o	"Stamat is going to sleep with { current caffeine } mg caffeine."
 
 Constraints
