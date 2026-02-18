@@ -1,6 +1,4 @@
 # C-Advanced-Exam-SoftUni
-# C-Advanced-Exam-SoftUni
-
 ---
 
 ## 1. Energy Drinks
