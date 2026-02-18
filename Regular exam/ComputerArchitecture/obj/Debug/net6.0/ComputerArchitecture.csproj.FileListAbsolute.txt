@@ -1,0 +1,4 @@
+C:\Users\Pc\Desktop\Reg Exam\Regular exam\ComputerArchitecture\obj\Debug\net6.0\ComputerArchitecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Desktop\Reg Exam\Regular exam\ComputerArchitecture\obj\Debug\net6.0\ComputerArchitecture.AssemblyInfoInputs.cache
+C:\Users\Pc\Desktop\Reg Exam\Regular exam\ComputerArchitecture\obj\Debug\net6.0\ComputerArchitecture.AssemblyInfo.cs
+C:\Users\Pc\Desktop\Reg Exam\Regular exam\ComputerArchitecture\obj\Debug\net6.0\ComputerArchitecture.csproj.CoreCompileInputs.cache

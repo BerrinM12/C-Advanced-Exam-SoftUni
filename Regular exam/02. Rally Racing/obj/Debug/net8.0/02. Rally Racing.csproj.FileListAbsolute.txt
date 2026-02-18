@@ -1,0 +1,14 @@
+C:\Users\Pc\Desktop\Reg Exam\Regular exam\02. Rally Racing\bin\Debug\net8.0\02. Rally Racing.exe
+C:\Users\Pc\Desktop\Reg Exam\Regular exam\02. Rally Racing\bin\Debug\net8.0\02. Rally Racing.deps.json
+C:\Users\Pc\Desktop\Reg Exam\Regular exam\02. Rally Racing\bin\Debug\net8.0\02. Rally Racing.runtimeconfig.json
+C:\Users\Pc\Desktop\Reg Exam\Regular exam\02. Rally Racing\bin\Debug\net8.0\02. Rally Racing.dll
+C:\Users\Pc\Desktop\Reg Exam\Regular exam\02. Rally Racing\bin\Debug\net8.0\02. Rally Racing.pdb
+C:\Users\Pc\Desktop\Reg Exam\Regular exam\02. Rally Racing\obj\Debug\net8.0\02. Rally Racing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Desktop\Reg Exam\Regular exam\02. Rally Racing\obj\Debug\net8.0\02. Rally Racing.AssemblyInfoInputs.cache
+C:\Users\Pc\Desktop\Reg Exam\Regular exam\02. Rally Racing\obj\Debug\net8.0\02. Rally Racing.AssemblyInfo.cs
+C:\Users\Pc\Desktop\Reg Exam\Regular exam\02. Rally Racing\obj\Debug\net8.0\02. Rally Racing.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\Reg Exam\Regular exam\02. Rally Racing\obj\Debug\net8.0\02. Rally Racing.dll
+C:\Users\Pc\Desktop\Reg Exam\Regular exam\02. Rally Racing\obj\Debug\net8.0\refint\02. Rally Racing.dll
+C:\Users\Pc\Desktop\Reg Exam\Regular exam\02. Rally Racing\obj\Debug\net8.0\02. Rally Racing.pdb
+C:\Users\Pc\Desktop\Reg Exam\Regular exam\02. Rally Racing\obj\Debug\net8.0\02. Rally Racing.genruntimeconfig.cache
+C:\Users\Pc\Desktop\Reg Exam\Regular exam\02. Rally Racing\obj\Debug\net8.0\ref\02. Rally Racing.dll
